@@ -1,5 +1,5 @@
 # Hi there!
-### Olá! Eu sou Gabriel um Engenheiro DevOps Jr :D
+### Olá! Eu sou Gabriel um Data Scientist JR :D
 
 ## Conecte-se Comigo!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-oliveira-rodrigues-dev/)
@@ -7,10 +7,10 @@
 
 ## 💻 About my Setup!
 
-- CPU: AMD Ryzen 5 3400G
+- CPU: AMD Ryzen 7 5700X
 - GPU: AMD Radeon RX 580 8GB
 - Memory: Team group T-Force Dark Z 32GB 3200Mhz(4x8)
-- Motherboard: Gigabyte AB320M
+- Motherboard: Gigabyte B550M K
 - - IDE: [Visual Studio Code](https://code.visualstudio.com/)
 
 ## 💻 About what i know:
